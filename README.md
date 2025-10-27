@@ -16,6 +16,6 @@ I enjoy building small, useful scripts that make everyday tasks easier and more 
 - Keep learning and improving one small project at a time  
 
 ### 📫 Connect with me
-- **LinkedIn:** [linkedin.com/in/your-username](#)
-- **Fiverr:** [fiverr.com/your-username](#)
+- **LinkedIn:** [https://www.linkedin.com/in/tarek-alaa-elzoghby-51783b385/](#)
+- **Fiverr:** [https://www.fiverr.com/users/t_a_elzoghby](#)
 
